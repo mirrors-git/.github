@@ -2,3 +2,11 @@
 
 2022-08-24 [@sskras](https://github.com/sskras):
 _If you would like to use this organization for publishing F/LOSS projects/repositories, please contact me, Saulius Krasuckas_
+
+TODO import static versions from:
+
+- [ ] [`mr511.de`, homepage of Michael "Tired" Riepe](https://web.archive.org/web/20180621172946/http://www.mr511.de/software/english.html)
+  - [ ] Libelf versions 0.5.2 - 0.8.13
+  - [ ] TrackFS versions 0.0.1 - 0.1.0
+  - [ ] Clone2fs versions 1.2.0, 1.3.0
+  - [ ] . End of the `mr511.de`
