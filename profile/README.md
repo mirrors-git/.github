@@ -18,3 +18,5 @@ TODO import static versions from:
   - [ ] [versions 3.8 - 3.8A](http://tetworks.opengroup.org/downloads/38/software/Sources/3.8/) (2010-08-09 - 2011-03-07)
 - [ ] SR.ht:
   - [ ] [runit](https://git.sr.ht/~kaction/runit) versions 0.1.0 - 2.1.2 (2001-11-16 - 2014-08-10), already included in Git
+- [ ] elm-chan.org:
+  - [ ] [FatFs - Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/archives.html) versions R0.01 - R0.15 (2006-04-29 - 2022-11-06)
