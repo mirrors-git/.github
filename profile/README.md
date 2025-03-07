@@ -21,18 +21,49 @@ TODO import static versions from:
 - [ ] elm-chan.org:
   - [ ] [FatFs - Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/archives.html) versions R0.01 - R0.15 (2006-04-29 - 2022-11-06)
 - [ ] keepass.info:
-  - [ ] the IOProtocolExt plugin, versions 1.2 - 1.17 (except 1.3, 1.4, 1.7, 1.9, 1.11, 1.13 which are missing from `archive.org`):
+  - [ ] the [IOProtocolExt plugin](https://keepass.info/plugins.html#ioprotocolext):
+
+    <details> <summary> versions 1.2 - 1.17 (except 1.3, 1.4, 1.7, 1.9, 1.11, 1.13 which are missing) from <code>archive.org</code>: </summary>
+    
     - [ ] v1.2
+      - [ ] https://web.archive.org/web/20110717230120/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.2.zip
+      - [ ] https://web.archive.org/web/20110717230120/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.2-Source.zip
     - [ ] ~v1.3~ (broken reference)
+      - [ ] https://web.archive.org/web/20120102204851/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.3.zip
+      - [ ] https://web.archive.org/web/20120102204851/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.3-Source.zip
     - [ ] v1.5
+      - [ ] https://web.archive.org/web/20120108171114/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.5.zip
+      - [ ] https://web.archive.org/web/20120108171114/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.5-Source.zip
     - [ ] v1.6
+      - [ ] https://web.archive.org/web/20130523082515/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.6.zip
+      - [ ] https://web.archive.org/web/20130523082515/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.6-Source.zip
     - [ ] v1.8
+      - [ ] https://web.archive.org/web/20140916180402/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.8.zip
+      - [ ] https://web.archive.org/web/20140916180402/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.8-Source.zip
     - [ ] v1.10
+      - [ ] https://web.archive.org/web/20141004232437/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.10.zip
+      - [ ] https://web.archive.org/web/20141004232437/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.10-Source.zip
     - [ ] ~v1.11~ (broken reference)
+      - [ ] https://web.archive.org/web/20160203193056/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.11.zip
+      - [ ] https://web.archive.org/web/20160203193056/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.11-Source.zip
     - [ ] v1.12
+      - [ ] https://web.archive.org/web/20160629070032/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.12.zip
+      - [ ] https://web.archive.org/web/20160629070032/http://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.12-Source.zip
     - [ ] ~v1.13~ (broken reference)
+      - [ ] https://web.archive.org/web/20180412162450/https://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.13.zip
+      - [ ] https://web.archive.org/web/20180412162450/https://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.13-Source.zip
     - [ ] v1.14
+      - [ ] https://web.archive.org/web/20180602125719/https://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.14.zip
+      - [ ] https://web.archive.org/web/20180605152202/https://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.14-Source.zip
     - [ ] v1.15
+      - [ ] https://web.archive.org/web/20180930094912/https://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.15.zip
+      - [ ] https://web.archive.org/web/20180930094912/https://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.15-Source.zip
     - [ ] v1.16
+      - [ ] https://web.archive.org/web/20190331111440/https://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.16.zip
+      - [ ] https://web.archive.org/web/20190331111440/https://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.16-Source.zip
     - [ ] v1.17
+      - [ ] https://web.archive.org/web/20240427210437/https://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.17.zip
+      - [ ] https://web.archive.org/web/20240427210437/https://keepass.info/extensions/v2/ioprotocolext/IOProtocolExt-1.17-Source.zip
+    - [ ] .
+    </details>
   - [ ] .
