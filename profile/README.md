@@ -69,7 +69,7 @@ TODO import static versions from:
   - [ ] .
 - [ ] wald.intevation.org:
   - [ ] [WinPT](https://winpt.wald.intevation.org/):
-    - [x] (Broken) https://wald.intevation.org/projects/winpt/
+    - [x] (Dev) https://wald.intevation.org/projects/winpt/
     - [x] (Broken) https://wald.intevation.org/scm/?group_id=14
     - [ ] (via Google) https://svn.wald.intevation.org/winpt/
   - [ ] .
